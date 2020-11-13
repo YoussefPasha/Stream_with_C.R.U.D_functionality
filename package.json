@@ -1,0 +1,17 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoussefPasha/Stream_with_C.R.U.D_functionality.git"
+  },
+  "author": "Youssef Pasha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoussefPasha/Stream_with_C.R.U.D_functionality/issues"
+  },
+  "homepage": "https://github.com/YoussefPasha/Stream_with_C.R.U.D_functionality#readme"
+}
