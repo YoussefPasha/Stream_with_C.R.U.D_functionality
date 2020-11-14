@@ -1,21 +1,10 @@
 {
   "streams": [
     {
-      "title": "Stream(1)",
-      "description": "First Stream",
+      "title": "First Title",
+      "description": "First Description",
+      "userId": "117240114830785837227",
       "id": 1
-    },
-    {
-      "title": "Stream Test",
-      "description": "TESTING",
-      "userId": "100863024274625399434",
-      "id": 2
-    },
-    {
-      "title": "Stream Test",
-      "description": "TESTING",
-      "userId": "100863024274625399434",
-      "id": 3
     }
   ]
 }
